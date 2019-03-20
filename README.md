@@ -1,8 +1,9 @@
 # redRain
 # 调用方法：
+    ## 直接调用
   var redRain=new createRain()  
-# 可以自己配置参数  
-var redRain=new createRain({  
+  ## 可以自己配置参数  
+    var redRain=new createRain({  
         size:10  
         duration:60000,  
         creatCallBack : function(){//创建红包时的回调   
@@ -14,4 +15,4 @@ var redRain=new createRain({
         overCallBack  : function(){//红包结束回调   
             <!-- xxxxxxxxx代码逻辑 -->  
         }  
-})  
+    })  
