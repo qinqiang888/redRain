@@ -2,8 +2,8 @@
 # 调用方法：
   var redRain=new createRain({
         duration:60000
-    })
-#可以自己配置参数
+    })  
+#可以自己配置参数  
 var redRain=new createRain({  
         size:10  
         duration:60000,  
