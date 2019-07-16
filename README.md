@@ -1,4 +1,4 @@
-# redRain
+# redRain 双11红包雨
 # 调用方法：
 ## 1.直接调用
   var redRain=new createRain()  
